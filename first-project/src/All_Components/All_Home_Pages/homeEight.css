@@ -1,0 +1,94 @@
+.eightOne{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    height: 750px;
+}
+
+.eightTwo{
+    width: 50%;
+}
+
+.eightTwo-one h1{
+    font-size: 40px;
+    color: #2c231b;
+    line-height: 60px;
+    text-transform: uppercase;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.eightTwo-one span{
+    color: #ba0304;
+}
+
+.eightTwo-one hr{
+    width: 70%;
+    border: 2px solid black;
+}
+
+.eightTwo-one p{
+    color: gray;
+    font-weight: 500;
+    padding: 5px 30px;
+    font-size: 18px;
+}
+
+.eightTwo-img{
+    font-size: 70px;
+    color: #ba0304;
+}
+
+.eightTwo-two{
+    width: 95%;
+    float: right;
+    color: gray;
+    font-weight: 500;
+    padding: 5px 40px;
+    font-size: 18px;
+}
+
+.eightTwo-two-one{
+    display: flex;
+    justify-content: space-between;
+    height: 150px;
+    align-items: center;
+    padding: 5px 20px;
+}
+.eightTwo-two-one-01{
+    display: flex;
+    width: 50%;
+    justify-content: space-around;
+}
+
+.eightTwo-two-one-02 {
+    color: white;
+    font-size: 70px;
+    border-radius: 50%;
+    padding: 10px;
+    background-color: #ba0304;
+}
+
+.eightTwo-two-one-03 {
+    font-size: 18px;
+}
+
+.eightTwo-two-one-03 h3{
+    color: #ba0304;
+}
+
+.eightTwo-two-one-04 {
+    color: #ba0304;
+    font-size: 30px;
+    width: 100px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.eightThree{
+    width: 40%;
+}
+
+.eightThree-img{
+    width: 95%;
+}

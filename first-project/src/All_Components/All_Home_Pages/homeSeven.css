@@ -1,0 +1,37 @@
+.text-center{
+    height: 700px;
+    margin-top: 50px;
+    padding-top: 100px;
+}
+
+.homeSeven-col8 .homeSeven-h1{
+    border-bottom: 3px solid gray;
+    color: black;
+    font-size: 40px;
+    line-height: 80px;
+    text-transform: uppercase;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.homeSeven-h1 span{
+    color: #ba0304;
+}
+
+.homeSeven01{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.col-para{
+    padding: 60px 40px;
+}
+
+.col-para p{
+    color: gray;
+}
+
+.homeSix-btn .btn{
+    margin-top: 20px;
+    background-color: #ba0304;
+    color: white;
+}

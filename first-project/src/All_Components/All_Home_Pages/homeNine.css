@@ -1,0 +1,82 @@
+.homeNine-one{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: #ba0304;
+    margin: 100px;
+    padding-bottom: 50px;
+}
+
+.homeNine-two h1{
+    font-size: 40px;
+    line-height: 150px;
+    color: white;
+    text-transform: uppercase;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.homeNine-two span{
+    color: #f3c939;
+}
+
+.homeNine-two{
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+}
+
+.homeNine-three{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+}
+
+.homeNine-three p{
+    width: 65%;
+    color: rgb(189, 185, 185);
+    font-size: 18px;
+}
+
+.homeNine-four{
+    width: 15%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.homeNine-five{
+    display: flex;
+    justify-content: center;
+    width: 80%;
+    height: 120px;
+}
+
+.homeNine-six{
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+    background-color: white;
+    border-radius: 25px;
+}
+
+.homeNine-seven{
+    width: 100%;
+    padding: 8px 30px;
+}
+
+.homeNine-fight{
+    border: 2px solid white;
+    color: white;
+    font-size: 55px;
+    border-radius: 50%;
+    padding: 10px;
+}
+
+.homeNine-nine{
+    color: black;
+    background-color: white;
+    font-size: 55px;
+    border-radius: 50%;
+    padding: 10px;
+}

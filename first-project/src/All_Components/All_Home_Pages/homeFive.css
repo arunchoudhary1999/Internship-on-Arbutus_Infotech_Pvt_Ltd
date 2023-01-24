@@ -1,0 +1,103 @@
+.homeFive{
+    padding-top: 40px;
+    height: 745px;
+}
+
+.homeFive-one .homeFive-h1{
+    padding-left: 100px;
+    color: gray;
+    font-size: 40px;
+    line-height: 80px;
+    text-transform: uppercase;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.homeFive-one span{
+    color: #ba0304;
+}
+
+.homeFive-one hr{
+    position: relative;
+    left: 100px;
+    width: 20%;
+    border: 2px solid gray;
+}
+
+.homeFive-two{
+    display: flex;
+    justify-content: space-around;
+    height: 100px;
+    align-items: center;
+}
+
+.homeFive-two01{
+    width: 60%;
+}
+
+.homeFive-two01 p{
+    font-size: 20px;
+    color: grey;
+    font-weight: 900;
+}
+
+.homeFive-icon{
+    float: right;
+}
+
+
+.homeFive-icon .icon_2 .btn{
+    color: white;
+    background-color: #ba0304;
+    font-size: 65px;
+    border-radius: 50%;
+    padding: 20px;
+}
+
+.homeFive-three{
+    display: flex;
+    justify-content: center;
+}
+
+.homeFive-four{
+    display: flex;
+    flex-direction: column;
+    background-color: #07161d;
+    border-radius: 15px;
+    margin: 10px;
+    width: 400px;
+}
+
+.video01{
+    width: 100%;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.homeFive-five{
+    padding: 25px 20px 10px 20px;
+}
+
+.homeFive-five h1{
+    color: white;
+}
+
+.homeFive-five p{
+    color: gray;
+    padding: 10px 0;
+    font-weight: 900;
+}
+
+.homeFive-five01 h1{
+    color: gray;
+}
+
+.homeFive-five01{
+    display: flex;
+    justify-content: space-between;
+}
+
+.homeFive-five-icon{
+    color: white;
+    margin: 0 8px;
+    font-size: 20px;
+}

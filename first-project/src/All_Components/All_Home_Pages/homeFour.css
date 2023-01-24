@@ -1,0 +1,54 @@
+.homeFour-one{
+    padding-top: 40px;
+}
+
+.homeFour-one .h1{
+    padding-left: 100px;
+    font-size: 40px;
+    color: #ba0304;
+    line-height: 80px;
+    text-transform: uppercase;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.homeFour-one span{
+    color: white;
+}
+
+.homeFour-one hr{
+    position: relative;
+    left: 100px;
+    width: 30%;
+    border: 2px solid white;
+}
+
+.homeFour{
+    background-color: #0b1d24;
+    height: 750px;
+}
+
+.homeFour-two{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 600px;
+}
+
+.homeFour-left p{
+    font-size: 22px;
+    color: #98a0a3;
+    padding-bottom: 60px;
+}
+
+.homeFour-left{
+    width: 30%;
+    padding: 0 40px 60px 0;
+}
+
+.homeFour-right{
+    width: 45%;
+}
+
+.homeFour-right img{
+    width: 100%;
+}

@@ -1,0 +1,70 @@
+.container01 {
+    background-color: #ba0304;
+    /* padding-bottom: 50px; */
+    padding: 0;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+
+.col-8{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.col-4{
+    padding: 0 0 0 60px;
+}
+
+.col-8 .homeSix-h1{
+    border-bottom: 3px solid gray;
+    color: white;
+    margin-left: 50px;
+    font-size: 40px;
+    line-height: 80px;
+    text-transform: uppercase;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.homeSix-h1 span{
+    color: #f3c939;
+}
+
+.homeSix-btn .btn{
+    text-transform:uppercase;
+    border-radius: 5px;
+    font-weight: 900;
+    background-color: white;
+    width: 180px;
+    color: rgb(43, 42, 42);
+    border-color: brown;
+    border-style: none;
+}
+
+.row02 .col-img01{
+    width: 90%;
+    float: right;
+}
+.col-para{
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.col-para p{
+    color: rgb(196, 196, 196);
+    font-weight: 600;
+    text-align: justify;
+}
+
+.col .col-img02{
+    /* width: %; */
+}
+
+.col-3-img{
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+}

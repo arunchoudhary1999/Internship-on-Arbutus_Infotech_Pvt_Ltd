@@ -1,0 +1,28 @@
+.homeTeen-one{
+    background-color: aqua;
+}
+
+.homeTeen-two{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.homeTeen-two h1{
+    font-size: 40px;
+    color: #bb0809;
+    text-transform: uppercase;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.homeTeen-two span{
+    color: #2c231b;
+}
+
+.homeTeen-two > hr{
+    border: 2px solid black;
+    width: 15%;
+}
+
+

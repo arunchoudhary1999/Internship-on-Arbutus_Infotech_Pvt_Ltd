@@ -1,0 +1,79 @@
+.homeTwo-first{
+    background-color: #fff;
+}
+
+.homeTwo-heading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.homeTwo-heading h1{
+    font-size: 40px;
+    color: #ba0304;
+    line-height: 80px;
+    text-transform: uppercase;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.homeTwo-heading hr{
+    width: 22%;
+    border: 2px solid grey;
+}
+
+.homeTwo-heading h1 span{
+    color: #2c231b;
+}
+
+.homeTwo-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 670px;
+}
+
+.homeTwo-img{
+    width: 30%;
+}
+
+.img{
+    width: 110%;
+}
+
+.homeTwo-data{
+    width: 40%;
+}
+
+.homeTwo-inside-data{
+    margin: 10px 50px;
+}
+
+.homeTwo-inside-head-img{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.homeTwo-inside-head-img .homeTwo-h1-img{
+    color: #ba0304;
+    font-size: 40px;
+}
+
+.homeTwo-inside-head-img .homeTwo-h1-heading{
+    letter-spacing: 0.1px;
+    word-spacing: -2px;
+}
+
+.homeTwo-inside-head-img h1 {
+    padding: 4px 8px;
+}
+
+.homeTwo-indeside-padd{
+    padding-left: 67px;
+    color: grey;
+}
+
+.homeTwo-inside-data hr{
+    margin-top: 15px;
+    border: 1px solid rgb(230, 230, 230);
+}
